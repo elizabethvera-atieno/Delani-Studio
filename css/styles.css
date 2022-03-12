@@ -4,10 +4,13 @@
     background-position: center;
     background-size: cover;
     position: relative;
-    
-    
-    
-    
-    
-    
+}
+#logo{
+    padding-top:250px;
+    padding-left: 45%;
+}
+#mouse{
+    align-self: center;
+    padding-left: 47%;
+    margin-top: 50px;
 }

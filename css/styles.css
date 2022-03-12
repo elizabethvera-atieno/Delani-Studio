@@ -39,3 +39,15 @@ p{
 #product-icon{
     padding-left: 40%;
 }
+
+.design{
+    display: none;
+}
+
+.development{
+    display: none;
+}
+
+.product{
+    display:none;
+}

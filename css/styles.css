@@ -24,5 +24,18 @@ p{
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    position: relative
+    position: relative;
+    color:white ;
+}
+
+#design-icon{
+    padding-left: 40%;
+}
+
+#dev-icon{
+    padding-left: 40%;
+}
+
+#product-icon{
+    padding-left: 40%;
 }

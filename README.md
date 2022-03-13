@@ -37,7 +37,7 @@
 ## License
  MIT License
 ## Live link
-* DELANI STUDIO - [DELANISTUDIO](https://elizabethvera-atieno.github.io/Akan-Naming/)
+* DELANI STUDIO - [DELANISTUDIO](https://elizabethvera-atieno.github.io/Delani-Studio/)
 
 ## Authors Info)
  * Github - [elizabethvera-atieno](https://github.com/elizabethvera-atieno)

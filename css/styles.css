@@ -1,5 +1,5 @@
-body{
-  font-family: 'Playfair Display', serif;
+body {
+  font-family: "Playfair Display", serif;
 }
 
 .welcome {
@@ -56,18 +56,18 @@ p {
   display: none;
 }
 
-#container3{
+#container3 {
   padding-bottom: 50px;
-   padding-left:200px ;
-   padding-right:200px ;
+  padding-left: 200px;
+  padding-right: 200px;
 }
 
-.hover{
-  display:none;
-  background-color:white;
-  opacity:0.7;
+.hover {
+  display: none;
+  background-color: white;
+  opacity: 0.7;
   /* z-index: 1; */
-  font-size:larger;
+  font-size: larger;
   height: 100%;
   width: 100%;
   padding-top: 40%;
@@ -79,60 +79,58 @@ p {
 }
 
 .contactUs {
-    background-image: url("../images/c_image.jpg");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    position: relative;
-  }  
-
-#col3{
-    padding-left:7cm;
-    padding-top:1cm;
-    padding-right: 7cm;
-    border:2px
-    
+  background-image: url("../images/c_image.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  position: relative;
 }
 
-#col1{
-    padding-left: 3cm;
-    border: 2px;
+#col3 {
+  padding-left: 7cm;
+  padding-top: 1cm;
+  padding-right: 7cm;
+  border: 2px;
 }
 
-#col2{
-   padding-right: 3cm;
-   border: 2px;
+#col1 {
+  padding-left: 3cm;
+  border: 2px;
 }
 
-input[type=text]{
-  background-color:transparent ;
+#col2 {
+  padding-right: 3cm;
+  border: 2px;
 }
 
-input[type=email]{
-  background-color:transparent ;
+input[type="text"] {
+  background-color: transparent;
 }
 
-#message{
-  background-color:transparent ;
+input[type="email"] {
+  background-color: transparent;
 }
 
-input[type=text]:focus {
+#message {
+  background-color: transparent;
+}
+
+input[type="text"]:focus {
   background-color: lightblue;
 }
 
-input[type=email]:focus {
+input[type="email"]:focus {
   background-color: lightblue;
 }
 
-
-.form-control::-webkit-input-placeholder { 
-  color: white; 
+.form-control::-webkit-input-placeholder {
+  color: white;
 }
 
-footer{
+footer {
   text-align: center;
   padding-top: 40px;
 }
-footer p{
+footer p {
   margin-top: 15px;
 }

@@ -53,10 +53,23 @@ p {
 }
 
 #container3{
-  background-color:blueviolet;
   padding-bottom: 50px;
    padding-left:200px ;
    padding-right:200px ;
-
-
 }
+
+.hover{
+  display:none;
+  background-color:white;
+  opacity:0.7;
+  /* z-index: 1; */
+  font-size:larger;
+  height: 100%;
+  width: 100%;
+  padding-top: 40%;
+  padding-right: 15%;
+  position: absolute;
+  /* top: 50%; */
+  /* left: 50%; */
+  /* transform: translate(-50%, -50%); */
+  }

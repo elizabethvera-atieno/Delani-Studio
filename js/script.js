@@ -88,7 +88,7 @@ $("#form").submit(function(event){
     var message = $("textarea#message").val();
 
     if (name && email){
-        alert(name + " Thank you for your feedback")
+        alert(name + " we have received your message. Thank you for reaching out to us. ")
     }else{
         alert("Ensure you have entered both name and email!")
     }

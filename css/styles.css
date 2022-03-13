@@ -124,3 +124,11 @@ input[type=email]:focus {
 .form-control::-webkit-input-placeholder { 
   color: white; 
 }
+
+footer{
+  text-align: center;
+  padding-top: 40px;
+}
+footer p{
+  margin-top: 15px;
+}

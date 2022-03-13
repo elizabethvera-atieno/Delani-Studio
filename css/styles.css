@@ -1,3 +1,7 @@
+body{
+  font-family: 'Playfair Display', serif;
+}
+
 .welcome {
   background-image: url("../images/h_img.jpg");
   background-repeat: no-repeat;

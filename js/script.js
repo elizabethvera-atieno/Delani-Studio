@@ -78,3 +78,19 @@ $(document).ready(function(){
         $('#pName8').hide("slow");
     });
 });
+
+// User Interface
+$(document).ready(function(){
+$("#form").submit(function(event){
+    event.preventDefault();
+    var name = $("input#name").val();
+    var email = $("input#email").val();
+    var message = $("textarea#message").val();
+
+    if (name && email){
+        alert(name + " Thank you for your feedback")
+    }else{
+        alert("Ensure you have entered both name and email!")
+    }
+});
+});

@@ -89,7 +89,7 @@ $(document).ready(function () {
 // User Interface
 $(document).ready(function () {
   $("#form").submit(function (event) {
-    event.preventDefault();
+    // event.preventDefault();
     var name = $("input#name").val();
     var email = $("input#email").val();
     var message = $("textarea#message").val();
